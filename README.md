@@ -35,7 +35,7 @@ deactivate
 ## Przewodnik użytkowania
 W terminalu należy wpisać następującą komendę:
 ```
-python weather_app.py
+python3 weather_app.py
 ```
 
 W odpowiedzi powinien pokazać się następujący komunikat:
