@@ -20,7 +20,7 @@ source venvWeatherAPI/bin/activate
 
 3. Klonowanie repozytorium
 ```
-git clone ADRES
+git clone https://github.com/wojtekbakun/WeatherAPI.git
 ```
 
 4. Instalacja dodatkowych pakietów:
