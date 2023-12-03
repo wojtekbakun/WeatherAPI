@@ -57,7 +57,7 @@ Running on http://127.0.0.1:5000
 
 W przeglądarce możesz wpisać następujące endpointy:
 - `/get-weather` - cały plik json odebrany od dostawcy API dla miasta Warszawa
-- `/get-wather/city` po wpisaniu miasta w języku angielskim w miejsce `<city>` pokaże się odczuwalna temperatura dla wybranego miasta w obecnej chwili
+- `/get-wather/<city>` po wpisaniu miasta w języku angielskim w miejsce `<city>` pokaże się odczuwalna temperatura dla wybranego miasta w obecnej chwili
 ## Przykłady korzystania
 Oto okna, które pokażą się w zależności od zastosowanych endpointów:
 
@@ -67,5 +67,5 @@ Oto okna, które pokażą się w zależności od zastosowanych endpointów:
 - `/get-weather` (fragment json)
 ![Screenshot 2023-12-03 at 18 40 21](https://github.com/wojtekbakun/WeatherAPI/assets/129949845/29d8752b-2931-400f-9d3f-80f74ae6e0b2)
 
-- `/get-weather/<szczecin>`
+- `/get-weather/szczecin`
 ![Screenshot 2023-12-03 at 18 41 02](https://github.com/wojtekbakun/WeatherAPI/assets/129949845/80344018-3381-46b7-8f4f-351c45ff75d8)
